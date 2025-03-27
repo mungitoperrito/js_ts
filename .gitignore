@@ -3,4 +3,5 @@ yarn-error.log
 
 courses/no_bs_ts/yarn/*
 courses/no_bs_ts/pnp.*
+courses/no_bs_ts/.pnp.cjs
 
