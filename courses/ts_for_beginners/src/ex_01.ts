@@ -1,3 +1,6 @@
+
+export{};
+
 // Transpile and run if ok: tsc index.ts  && node ex_01.js
 
 
