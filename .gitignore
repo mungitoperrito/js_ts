@@ -5,3 +5,4 @@ courses/no_bs_ts/yarn/*
 courses/no_bs_ts/pnp.*
 courses/no_bs_ts/.pnp.cjs
 
+courses/ts_for_beginners/dist/*
