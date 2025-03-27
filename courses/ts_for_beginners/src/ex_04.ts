@@ -28,3 +28,13 @@ export {};               // Make module to preserve namespaces
 let tup_01: [number, string] = [0, 'zero'];
 
 
+// Enums
+// enum Size { Small, Medium, Large };   // enum has an implied 0 based value
+//                                       //   - can change value. The other vals
+//                                       //   adjust { Small = 5, Medium, Large }
+const enum Size { Small, Medium, Large };   //   - for small js output use const
+
+let shirtSize: Size = Size.Small;
+if (shirtSize == 0) {
+    console.log(`Size is ${Size.Small.toString()}: ${shirtSize}`);   // Format string ` - not quotes
+}
