@@ -1,4 +1,4 @@
-// To run code: tsc && ex_0t.js
+// To run code: tsc && node dist/ex_0t.js
 
 // Config the ts compiler
 // To create tsconfig.json:  tsc --init
