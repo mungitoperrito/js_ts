@@ -1,3 +1,5 @@
+// Later lessons turn on tsconfig.json checks that might invalidate uncommented code.
+
 // Debugging
 //    Add breakpoint
 //    Go to the run & debug panel

@@ -1,3 +1,5 @@
+// Later lessons turn on tsconfig.json checks that might invalidate uncommented code.
+
 // To run code: tsc && node dist/ex_0t.js
 
 // Config the ts compiler
