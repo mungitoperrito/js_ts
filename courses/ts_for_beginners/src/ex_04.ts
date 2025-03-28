@@ -1,3 +1,5 @@
+// Later lessons turn on tsconfig.json checks that might invalidate uncommented code.
+
 // Fundamentals
 
 export {};               // Make module to preserve namespaces
@@ -23,9 +25,9 @@ export {};               // Make module to preserve namespaces
 // let array_03: number[] = [];    // explicit type number
 
 
-// Tuples
-// Converted to plain arrays in .js
-let tup_01: [number, string] = [0, 'zero'];
+// // Tuples
+// // Converted to plain arrays in .js
+// let tup_01: [number, string] = [0, 'zero'];
 
 
 // Enums
