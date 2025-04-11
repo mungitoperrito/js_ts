@@ -17,4 +17,5 @@ const circle_01 = new Circle(1);   // new creates new object (not the global obj
 
 circle_01.draw();
 circle_01.whichGlobal();
+console.log(circle_01.constructor);      // How was this object created
 
